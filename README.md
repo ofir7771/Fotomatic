@@ -1,0 +1,2 @@
+# Fotomatic
+Code Academy Ready
